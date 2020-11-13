@@ -9,7 +9,7 @@
 什么是 WeIdentity？
 ========================
 
-WeIdentity是一套分布式多中心的技术解决方案，可承载实体对象（人或者物）的现实身份与链上身份的可信映射、以及实现实体对象之间安全的访问授权与数据交换。WeIdentity由微众银行自主研发并完全开源，秉承公众联盟链整合资源、交换价值、服务公众的理念，致力于成为链接多个垂直行业领域的分布式商业基础设施，促进泛行业、跨机构、跨地域间的身份认证和数据合作。
+WeIdentity是一套分布式多中心的技术解决方案，可承载实体对象（人或者物）的现实身份与链上身份的可信映射、以及实现实体对象之间安全的访问授权与数据交换。WeIdentity完全开源，秉承公众联盟链整合资源、交换价值、服务公众的理念，致力于成为链接多个垂直行业领域的分布式商业基础设施，促进泛行业、跨机构、跨地域间的身份认证和数据合作。
 
 模块介绍
 --------
@@ -117,24 +117,4 @@ WeIdentity目前支持基于FISCO-BCOS的区块链，并提供Java SDK及RestSer
       </table>
       <br />
     </embed>
-
-感受WeIdentity
-----------------
-
-接下来，您可以在\ `此页 <https://weidentity.readthedocs.io/zh_CN/latest/docs/one-stop-experience.html>`_，一站式了解WeIdentity的参考场景，体验Demo流程，并了解完整的部署方式及参考实现。
-
-
-联系我们
---------
-
-邮箱：weidentity@webank.com
-
-
-如何贡献
---------
-
-* 我们所有的贡献者名单页面在 \ `这里 <./ALLCONTRIBUTOR.md>`_ 。感谢大家为WeIdentity付出的心血！
-
-*
-   详见：\ `如何贡献 <https://github.com/WeBankFinTech/WeIdentity/blob/master/.github/CONTRIBUTING.md>`_
 
