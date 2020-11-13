@@ -72,19 +72,6 @@ WeIdentity支持认证机构自行注册标准化凭证模板，共同丰富公�
 更多
 ^^^^
 
-*
-   `案例及场景 <https://weidentity.readthedocs.io/zh_CN/latest/docs/use-cases.html>`_
-
-*
-   `WeIdentity规范文档 <https://weidentity.readthedocs.io/zh_CN/latest/docs/weidentity-spec.html>`_
-
-
-当前状态
---------
-
-WeIdentity目前支持基于FISCO-BCOS的区块链，并提供Java SDK及RestService方式供部署。具体的规范文档、安装部署和使用指引如下表所示：
-
-
 .. raw:: html
 
     <embed>
